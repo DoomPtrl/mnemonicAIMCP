@@ -1,0 +1,8 @@
+artifacts/
+표준국어대사전/
+한국어기초사전/
+우리말샘/
+.env
+__pycache__/
+*.pyc
+*.pkl

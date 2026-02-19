@@ -1,0 +1,12 @@
+# Exclude large corpora and local artifacts
+우리말샘/
+한국어기초사전/
+표준국어대사전/
+project.zip
+combos.json
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.vscode/
+.env
